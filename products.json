@@ -1,0 +1,63 @@
+[
+ 
+    {
+        "id": 2,
+        "image":"Achichuk.jpg",
+        "name":"Achichuk salati",
+        "price": 20000
+    },
+    {
+        "id": 3,
+        "image":"dimlama.jpg",
+        "name":"Dimlama",
+        "price": 40000
+    },
+    {
+        "id": 4,
+        "image":"gosht_somsa.jpg",
+        "name":"Go'shtli Somsa",
+        "price": 8000
+    },
+    {
+        "id": 5,
+        "image":"Kok_somsa.jpg",
+        "name":"Ko'k somsa",
+        "price": 8000
+    },
+    {
+        "id": 6,
+        "image":"lagmon.jpg",
+        "name":"Lag'mon",
+        "price": 25000
+    },
+    {
+        "id": 7,
+        "image":"qiyma_kabob.jpg",
+        "name":"Qiyma Kabob",
+        "price": 15000
+    },
+    {
+        "id": 8,
+        "image":"qovurdoq.jpg",
+        "name":"Qovurdoq",
+        "price": 50000
+    },
+    {
+        "id": 9,
+        "image":"qovurilgan_baliq.jpg",
+        "name":"Qovurilgan Baliq",
+        "price": 80000
+    },
+    {
+        "id": 10,
+        "image":"shorva.jpg",
+        "name":"Sho'rva",
+        "price": 25000
+    },
+    {
+        "id": 11,
+        "image":"tokdolma.jpg",
+        "name":"Tok Do'lma",
+        "price": 45000
+    }
+]
